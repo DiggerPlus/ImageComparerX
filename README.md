@@ -4,7 +4,7 @@ ImageComparerX
 An image comparing tool coded in JAVA(Using Hanming distance and DCT algorithm)
 
 用法：
-可执行文件存放在Project的Runnable文件夹下，以压缩成一个zip包。
+可执行文件存放在Project的Runnable文件夹下，已压缩成一个zip包。
 使用前请确认您的操作系统中已经安装了JDK6+或者JRE1.6+的JAVA环境，算法取自于一个国外的图像处理网站，不存在版权问题。
 
 怎么使用？
