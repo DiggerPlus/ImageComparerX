@@ -1,7 +1,7 @@
 ImageComparerX
 ==============
 
-A images compare tool coding in JAVA(Using Hanming distance and DCT algorithm)
+An image comparing tool coded in JAVA(Using Hanming distance and DCT algorithm)
 
 用法：
 可执行文件存放在Project的Runnable文件夹下，以压缩成一个zip包。
